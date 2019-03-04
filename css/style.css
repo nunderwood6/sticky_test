@@ -1,0 +1,34 @@
+article {
+  position: relative;
+
+}
+
+figure.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  border: dotted 1px orange;
+}
+
+div.chart {
+	background-color: red;
+	width: 40vw;
+	height: 40vw;
+	margin: 10vw;
+	margin-left:50vw;
+}
+
+div.intro {
+	border: solid 1px black;
+}
+
+div.step {
+	border: solid 1px black;
+}
+
+div.spacer {
+	border: dotted 1px blue;
+	height: 1000px;
+
+}
+
